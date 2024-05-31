@@ -384,6 +384,7 @@ header img{
     justify-self: center;
     font-size: 16px;
     font-family: var(--roboto);
+    cursor: pointer;
 }
 
 #section5 form button:hover{
